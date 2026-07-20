@@ -310,7 +310,7 @@
         <h4>Kontak</h4>
         <ul class="list-unstyled" style="font-size:13.5px;color:#d8d3c6;">
           <li class="mb-2">WhatsApp: 0812-3456-7890</li>
-          <li class="mb-2">Email: hanika@gmail.com</li>
+          <li class="mb-2">Email: handika@gmail.com</li>
           <li class="mb-2">lombok, Indonesia</li>
         </ul>
       </div>
